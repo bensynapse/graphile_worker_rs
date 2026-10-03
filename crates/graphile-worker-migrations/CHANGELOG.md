@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.4.23](https://github.com/leo91000/graphile_worker_rs/compare/graphile_worker_migrations-v0.4.22...graphile_worker_migrations-v0.4.23) - 2026-10-03
+
+### Other
+
+- updated the following local packages: graphile_worker_database
+
 ## [0.4.22](https://github.com/leo91000/graphile_worker_rs/compare/graphile_worker_migrations-v0.4.21...graphile_worker_migrations-v0.4.22) - 2026-09-29
 
 ### Fixed
